@@ -11,9 +11,6 @@ by [YuEun Lee](https://www.linkedin.com/in/yueun-lee-86537a350), [Jung Uk Kim*](
 (* indicate corresponding author)
 
 ---
-## Abstract
-TBA
-
 ## Installation
 TBA
 
